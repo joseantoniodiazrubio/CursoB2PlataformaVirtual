@@ -1,0 +1,5 @@
+
+El alumnado deberá desarrollar un pequeño vídeo en el que muestre su proyecto de Arduino desarrollado en la asignatura de Robótica en funcionamiento, explicando de forma sencilla qué problema pretende resolver, qué componentes ha utilizado, cómo funciona el montaje y qué resultado obtiene al ponerlo en marcha. Además, deberá incluir una breve explicación del programa o código empleado y, si es posible, comentar las principales dificultades encontradas durante el proceso.
+
+La herramienta escogida es Clipchamp porque resulta sencilla para el alumnado, permite grabar imagen, pantalla y voz desde un mismo entorno, y además facilita una edición básica sin necesidad de conocimientos avanzados. Por ello, es una opción adecuada para que los alumnos puedan centrarse en explicar su proyecto con claridad sin que la parte técnica de la grabación complique excesivamente la tarea.
+
